@@ -6,4 +6,4 @@ This landing page is fully responsive. It is majorly built using CSS Grid. But f
 ### Reference
 I learned to build this website from Advanced CSS by Jonas Schemdtmann.
 
-[Here is the Live Preview] (https://mabeny-dev.github.io/Nexter/)
+[Here is the Live Preview](https://mabeny-dev.github.io/Nexter/)
